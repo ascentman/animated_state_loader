@@ -9,14 +9,14 @@ overlay.
 
 ## Preview
 
-![](https://github.com/ascentman/animated_state_loader/blob/main/media/demo.png)
+![](https://github.com/ascentman/animated_state_loader/raw/main/media/demo.png)
 
 ## Features
 
-![](https://github.com/ascentman/animated_state_loader/blob/main/media/loader.gif)
-![](https://github.com/ascentman/animated_state_loader/blob/main/media/success.gif)
-![](https://github.com/ascentman/animated_state_loader/blob/main/media/error.gif)
-![](https://github.com/ascentman/animated_state_loader/blob/main/media/info.gif)
+![](https://github.com/ascentman/animated_state_loader/raw/main/media/loader.gif)
+![](https://github.com/ascentman/animated_state_loader/raw/main/media/success.gif)
+![](https://github.com/ascentman/animated_state_loader/raw/main/media/error.gif)
+![](https://github.com/ascentman/animated_state_loader/raw/main/media/info.gif)
 
 - Animated check, error, loading and info icons
 - Customized duration, color, stroke width and bottom content widget if

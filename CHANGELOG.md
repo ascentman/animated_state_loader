@@ -1,3 +1,8 @@
+## 1.0.4
+
+- Fixed Readme again (seems like I was finally overcome displaying GIFs in
+  Readme).
+
 ## 1.0.3
 
 - Fixed Readme.
