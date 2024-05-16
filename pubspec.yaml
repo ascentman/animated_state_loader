@@ -1,5 +1,5 @@
 name: animated_state_loader
-description: "Providing an animated customizable loader widget."
+description: "Providing an animated customizable widget which displays different state: loading, success, error and info"
 version: 1.0.2
 homepage: "https://github.com/ascentman/animated_state_loader"
 
