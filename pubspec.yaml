@@ -1,9 +1,6 @@
 name: animated_state_loader
-description:
-  "A Flutter package providing an animated loader widget that overlays a child widget.
-  The loader supports various animation types such as loading, success, error, and info.
-  Customize the appearance, duration, and content of the loader overlay."
-version: 1.0.0
+description: "Providing an animated customizable loader widget."
+version: 1.0.1
 homepage: "https://github.com/ascentman/animated_state_loader"
 
 platforms:

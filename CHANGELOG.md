@@ -1,3 +1,8 @@
+## 1.0.1
+
+- Updated Readme.
+- Increasing package score
+
 ## 1.0.0
 
 - Bug fixes, updated Readme.

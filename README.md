@@ -1,6 +1,6 @@
 [![Pub Version](https://img.shields.io/pub/v/animated_state_loader)](https://pub.dev/packages/animated_state_loader)
 ![GitHub](https://img.shields.io/github/license/davigmacode/flutter_animated_checkmark)
-[![GitHub](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&color=yellow&label)](http://buymeacoffee.com/ascentman9s)
+[![GitHub](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&color=yellow&label)](https://buymeacoffee.com/ascentman9s)
 
 A Flutter package providing an animated loader widget that overlays a child
 widget. The loader supports various animation types such as loading, success,
@@ -9,27 +9,14 @@ overlay.
 
 ## Preview
 
-<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/demo.gif">
-  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/demo.gif" alt="Preview" width="300"/>
-</a>
+![](https://github.com/ascentman/animated_state_loader/blob/main/media/demo.gif)
 
 ## Features
 
-<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/loader.gif">
-  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/loader.gif" alt="Preview" width="100"/>
-</a>
-
-<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/info.gif">
-  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/info.gif" alt="Preview" width="100"/>
-</a>
-
-<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/success.gif">
-  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/success.gif" alt="Preview" width="100"/>
-</a>
-
-<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/error.gif">
-  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/error.gif" alt="Preview" width="100"/>
-</a>
+![](https://github.com/ascentman/animated_state_loader/blob/main/media/loader.gif)
+![](https://github.com/ascentman/animated_state_loader/blob/main/media/success.gif)
+![](https://github.com/ascentman/animated_state_loader/blob/main/media/error.gif)
+![](https://github.com/ascentman/animated_state_loader/blob/main/media/info.gif)
 
 - Animated check, error, loading and info icons
 - Customized duration, color, stroke width and bottom content widget if
@@ -55,4 +42,4 @@ For more examples with state transition from loading to error and success visit:
 
 ## Sponsoring
 
-<a href="http://buymeacoffee.com/ascentman9s" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45"></a>
+<a href="https://buymeacoffee.com/ascentman9s" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45"></a>
