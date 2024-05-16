@@ -9,26 +9,26 @@ overlay.
 
 ## Preview
 
-<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/demo.mov">
-  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/demo.mov" alt="Preview" width="300"/>
+<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/demo.gif">
+  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/demo.gif" alt="Preview" width="300"/>
 </a>
 
 ## Features
 
-<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/loader.mov">
-  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/loader.mov" alt="Preview" width="100"/>
+<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/loader.gif">
+  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/loader.gif" alt="Preview" width="100"/>
 </a>
 
-<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/info.mov">
-  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/info.mov" alt="Preview" width="100"/>
+<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/info.gif">
+  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/info.gif" alt="Preview" width="100"/>
 </a>
 
-<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/success.mov">
-  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/success.mov" alt="Preview" width="100"/>
+<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/success.gif">
+  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/success.gif" alt="Preview" width="100"/>
 </a>
 
-<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/error.mov">
-  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/error.mov" alt="Preview" width="100"/>
+<a href="https://github.com/ascentman/animated_state_loader/blob/main/media/error.gif">
+  <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/error.gif" alt="Preview" width="100"/>
 </a>
 
 - Animated check, error, loading and info icons
