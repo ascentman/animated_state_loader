@@ -1,6 +1,6 @@
 name: animated_state_loader
 description: "Providing an animated customizable loader widget."
-version: 1.0.1
+version: 1.0.2
 homepage: "https://github.com/ascentman/animated_state_loader"
 
 platforms:
