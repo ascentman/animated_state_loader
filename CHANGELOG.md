@@ -1,3 +1,7 @@
+## 1.0.0
+
+- Bug fixes, updated Readme.
+
 ## 0.0.1
 
 - Initial release.
