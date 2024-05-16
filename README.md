@@ -9,7 +9,7 @@ overlay.
 
 ## Preview
 
-![](https://github.com/ascentman/animated_state_loader/blob/main/media/demo.gif)
+![](https://github.com/ascentman/animated_state_loader/blob/main/media/demo.png)
 
 ## Features
 
