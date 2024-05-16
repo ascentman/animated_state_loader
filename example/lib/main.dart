@@ -32,12 +32,10 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
-  bool _isLoading = false;
   AnimationType _currentAnimationType = AnimationType.loading;
 
   void _incrementCounter() async {
     setState(() {
-      _isLoading = true;
       _counter += 1;
       _currentAnimationType = AnimationType.loading;
     });
@@ -57,7 +55,6 @@ class _MyHomePageState extends State<MyHomePage> {
     return AnimatedStateLoader(
       size: 60,
       animationType: _currentAnimationType,
-      isShown: _isLoading,
       content: Text(
         _currentAnimationType == AnimationType.loading
             ? 'Loading...'

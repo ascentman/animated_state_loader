@@ -4,7 +4,7 @@ description:
   The loader supports various animation types such as loading, success, error, and info.
   Customize the appearance, duration, and content of the loader overlay."
 version: 0.0.1
-homepage: "https://"
+homepage: "https://github.com/ascentman/animated_state_loader"
 
 topics:
   - ui

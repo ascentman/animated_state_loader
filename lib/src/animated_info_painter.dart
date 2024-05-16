@@ -69,7 +69,7 @@ class AnimatedInfoPainter extends CustomPainter {
 
     canvas.drawPath(circlePath, paint);
 
-    if (animationPercent == 1.0) {
+    if (animationPercent > 0.5) {
       final textPainter = TextPainter(
         text: TextSpan(
           text: 'i',

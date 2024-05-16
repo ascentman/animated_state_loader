@@ -37,7 +37,7 @@ class AnimatedStateLoader extends StatefulWidget {
   /// The type of animation to display.
   final AnimationType? animationType;
 
-  /// Whether the loader is shown.
+  /// Whether the loader is shown. Next time it shows up on a state change.
   final bool isShown;
 
   /// The opacity of the background when the loader is shown.
@@ -65,7 +65,7 @@ class AnimatedStateLoader extends StatefulWidget {
     this.containerColor = Colors.white,
     this.containerBorderRadius = 10,
     this.ignoreGesturesOutside = true,
-    this.isShown = false,
+    this.isShown = true,
   });
 
   @override

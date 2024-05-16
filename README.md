@@ -1,39 +1,35 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+[![Pub Version](https://img.shields.io/pub/v/animated_state_loader)](https://pub.dev/packages/animated_state_loader)
+![GitHub](https://img.shields.io/github/license/davigmacode/flutter_animated_checkmark)
+[![GitHub](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&color=yellow&label)](http://buymeacoffee.com/ascentman9s)
+A Flutter package providing an animated loader widget that overlays a child
+widget. The loader supports various animation types such as loading, success,
+error, and info. Customize the appearance, duration, and content of the loader
+overlay.
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+## Preview
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+TODO
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+- Animated check, error, loading and info icons
+- Customized color, stroke width and bottom content widget if necessary
+- Customized background opacity, container's color and corner radius
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+TODO
 
 ```dart
-const like = 'sample';
+AnimatedStateLoader(
+      size: 60,
+      animationType: AnimationType.loading,
+      child: Scaffold(
+        body: Container(),
+      ),
+    );
 ```
 
-## Additional information
+## Sponsoring
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+<a href="http://buymeacoffee.com/ascentman9s" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45"></a>

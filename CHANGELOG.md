@@ -1,3 +1,4 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Initial release.
+- 4 types of animated icons: loading, check, error, info
