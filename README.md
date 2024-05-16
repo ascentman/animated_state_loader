@@ -31,9 +31,9 @@ overlay.
   <img src="https://github.com/ascentman/animated_state_loader/blob/main/media/error.mov" alt="Preview" width="100"/>
 </a>
 
-
 - Animated check, error, loading and info icons
-- Customized duration, color, stroke width and bottom content widget if necessary
+- Customized duration, color, stroke width and bottom content widget if
+  necessary
 - Customized background opacity, container's color and corner radius
 
 ## Usage
@@ -50,7 +50,8 @@ AnimatedStateLoader(
     );
 ```
 
-For more examples with state transition from loading to error and success visit: [GitHub repository](https://github.com/ascentman/animated_state_loader/tree/main/example)
+For more examples with state transition from loading to error and success visit:
+[GitHub repository](https://github.com/ascentman/animated_state_loader/tree/main/example)
 
 ## Sponsoring
 
